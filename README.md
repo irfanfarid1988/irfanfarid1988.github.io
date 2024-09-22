@@ -7,7 +7,11 @@
 </head>
 <body>
     <header>
-        <img src="img/1643960177790.jpeg" class="profile-pic">
+        <img src="img/1643960177790.jpeg" 
+        style="width:100px;height:100px;
+        border-radius:50%;
+        object-fit:cover;
+        border: 3px solid #333;">
         
         <h2>Web Developer</h2>
     </header>
