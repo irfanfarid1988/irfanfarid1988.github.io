@@ -5,7 +5,7 @@
     <title>Your Name - Web Developer Portfolio</title>
     <link rel="stylesheet" href="/css/customstyles.css">
     <script>
-        document.location="index.html";
+        //document.location="index.html";
     </script>
 </head>
 
