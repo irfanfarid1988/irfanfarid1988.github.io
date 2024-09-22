@@ -3,11 +3,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Your Name - Web Developer Portfolio</title>
-    <link rel="stylesheet" href="~/css/customstyles.css">
+    <link rel="stylesheet" href="css/customstyles.css">
 </head>
 <body>
     <header>
-        <img src="~/img/1643960177790.jpeg" class="profile-pic">
+        <img src="img/1643960177790.jpeg" class="profile-pic">
         
         <h2>Web Developer</h2>
     </header>
