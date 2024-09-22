@@ -7,7 +7,6 @@
 </head>
 <body>
     <header>
-        <h1>Your Name</h1>
         <h2>Web Developer</h2>
     </header>
 
