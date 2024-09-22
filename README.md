@@ -7,6 +7,8 @@
 </head>
 <body>
     <header>
+        <img src="img/1643960177790.jpeg"><img src="img/1643960177790.jpeg" class="profile-pic">
+        
         <h2>Web Developer</h2>
     </header>
 
@@ -49,9 +51,9 @@
 
         <section id="contact">
             <h2>Contact</h2>
-            <p>Email: your.email@example.com</p>
-            <p>LinkedIn: <a href="https://www.linkedin.com/in/yourprofile">Your LinkedIn Profile</a></p>
-            <p>GitHub: <a href="https://github.com/yourusername">Your GitHub Profile</a></p>
+            <p>Email: irfanfarid1988@gmail.com</p>
+            <p>LinkedIn: <a href="https://www.linkedin.com/in/irfan-farid/">Your LinkedIn Profile</a></p>
+            <p>GitHub: <a href="https://github.com/irfanfarid1988">Your GitHub Profile</a></p>
         </section>
     </main>
 
