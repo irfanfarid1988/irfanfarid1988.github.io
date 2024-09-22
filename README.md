@@ -4,7 +4,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Your Name - Web Developer Portfolio</title>
     <link rel="stylesheet" href="/css/customstyles.css">
+    <script>
+        document.location="index.html";
+    </script>
 </head>
+
 <body>
     <header>
         <img src="img/1643960177790.jpeg" 
